@@ -1,9 +1,8 @@
 👋 Hey, I'm Ritic Raj Byanjankar
 
-
-https://img.shields.io/badge/Frontend%20Ninja-React%20%26%20TypeScript-blue?style=for-the-badge&logo=react
-https://img.shields.io/github/followers/riticbenz123?style=social
-https://img.shields.io/github/stars/riticbenz123?style=social
+![Profile Banner](https://img.shields.io/badge/Frontend%20Ninja-React%20%26%20TypeScript-blue?style=for-the-badge&logo=react)
+![GitHub followers](https://img.shields.io/github/followers/riticbenz123?style=social)
+![GitHub stars](https://img.shields.io/github/stars/riticbenz123?style=social)
 
 
 I'm a frontend dev with a passion for building slick, responsive UIs that make users go "Whoa!" 🚀. Think pixel-perfect designs brought to life with React, TypeScript, and a dash of Redux magic. I've got about a year of hands-on experience, plus some backend chops in Node.js, Express, and Django for those full-stack adventures. When I'm not coding, I'm dreaming up interactive apps that blend speed, style, and seamless UX. Let's turn ideas into digital awesomeness!
