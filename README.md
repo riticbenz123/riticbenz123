@@ -1,7 +1,8 @@
 👋 Hey, I'm Ritic Raj Byanjankar
 
-![Profile Banner](https://img.shields.io/badge/Frontend%20Ninja-React%20%26%20TypeScript-blue?style=for-the-badge&logo=react)
-![GitHub followers](https://img.shields.io/github/followers/riticbenz123?style=social)
+![Profile Banner](https://img.shields.io/badge/Frontend%20Ninja-React%20%26%20TypeScript-blue?style=for-the-badge&logo=react) <br>
+![Django Banner](https://img.shields.io/badge/Django-Powered%20Backend-092E20?style=for-the-badge&logo=django&logoColor=white) <br>
+![GitHub followers](https://img.shields.io/github/followers/riticbenz123?style=social)<br>
 ![GitHub stars](https://img.shields.io/github/stars/riticbenz123?style=social)
 
 
