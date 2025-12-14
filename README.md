@@ -25,4 +25,11 @@ Adaptability: Thrives in diverse tech stacks and design systems. Change? Bring i
 Collaboration: Git workflows? Team version control? I'm your go-to guy for smooth sails. 🤝
 
 
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajil-s&show_icons=true&hide_border=true&hide_title=true"/>
+</p>
+
+
 Powered by coffee, code, and a love for clean interfaces. Last updated: November 2025.
